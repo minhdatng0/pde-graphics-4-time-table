@@ -13,5 +13,9 @@ void setup() {
 }
 
 void draw() {
+  for (int y = 0; y<6; y++){
+   for (int x = 2; x<2; x++){
+   }
+  }
 
 }
