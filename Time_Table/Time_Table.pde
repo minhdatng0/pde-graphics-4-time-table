@@ -7,14 +7,15 @@
  */
  
 void setup() {
-   size(1000,900);
+   size(600,800);
    background(255);
   
 }
 
 void draw() {
   for (int y = 0; y<6; y++){
-   for (int x = 2; x<2; x++){
+   for (int x = 0; x<2; x++){
+     rect(100+x*200,100+y*100,200,100);
    }
   }
 
