@@ -13,7 +13,7 @@ void setup() {
 
 void draw() {
   int l = 1;
-   for (int y = 0; y<6; y++) {
+   for (int y = 0; y<4; y++) {
     for (int x = 0; x<2; x++) {
      fill(255);
         rect(100+x*200, 100+y*100, 200, 100);
