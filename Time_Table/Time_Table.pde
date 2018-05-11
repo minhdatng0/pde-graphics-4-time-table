@@ -23,5 +23,8 @@ void draw() {
         text("Block " + l, 120, 150+y*100);
         l++;
    }
-   
+   //Class 1
+
+    text("Dr.Pineda",320,150);
+    text("Math 10C",320,160);
 }
