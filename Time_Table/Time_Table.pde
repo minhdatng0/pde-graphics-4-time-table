@@ -32,5 +32,7 @@ void draw() {
     text("Robotics 10",320,250);
     //Block 3
     
-    //
+    //Block 4
+    text("Dr.Pineda",320,430);
+    text("Comp Sci 10",320,450);
 }
