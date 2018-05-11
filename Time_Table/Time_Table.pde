@@ -23,8 +23,11 @@ void draw() {
         text("Block " + l, 120, 150+y*100);
         l++;
    }
-   //Class 1
+   //Block 1
     textSize(20);
     text("Dr.Pineda",320,130);
     text("Math 10C",320,150);
+    //Block 2
+    text("Mr.Mercer",320,230);
+    text("Robotics 10",320,250);
 }
