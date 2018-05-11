@@ -19,7 +19,9 @@ void draw() {
         rect(100+x*200, 100+y*100, 200, 100);
     }
         fill(0);
-        text("block " + l, 120, 150+y*100);
+        textSize(32);
+        text("Block " + l, 120, 150+y*100);
         l++;
    }
+   
 }
