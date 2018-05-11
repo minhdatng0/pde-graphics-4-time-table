@@ -25,6 +25,6 @@ void draw() {
    }
    //Class 1
     textSize(20);
-    text("Dr.Pineda",320,150);
-    text("Math 10C",320,160);
+    text("Dr.Pineda",320,130);
+    text("Math 10C",320,150);
 }
